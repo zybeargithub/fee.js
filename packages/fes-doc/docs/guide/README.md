@@ -15,7 +15,7 @@ Fes应运而生，管理开发到部署整个流程。提供cli工具、提供�
 
 Fes是一整套解决方案。包含`fes-cli`、`fes-core`、`fes-ui`三部分。   
 `fes-cli`是命令行工具，解决创建工程、开发调试、打包发布。   
-`fes-core`是框架核心，对Vue的API做了一些增强。建议先阅读学习[Vue2.0](https://cn.vuejs.org/v2/guide/)，再阅读[运行时框架](/runtime/)。        
+`fes-core`是框架核心，对Vue的API做了一些增强。建议先阅读学习[Vue2.0](https://cn.vuejs.org/v2/guide/)，再阅读[Vue增强](/guide/option)。        
 `fes-ui`是一套基于Ant.design设计理念的PC端组件库。
 
 ## 愿景
