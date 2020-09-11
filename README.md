@@ -1,9 +1,9 @@
- <p align="center"><a href="https://webank.gitee.io/fes.js/" target="_blank" rel="noopener noreferrer"><img width="200" src="https://i.loli.net/2020/08/31/FB6zZyPEW5cVDAC.jpg" alt="Fes logo"></a></p>
+ <p align="center"><a href="https://webank.gitee.io/fes.js/" target="_blank" rel="noopener noreferrer"><img width="250" src="https://i.loli.net/2020/08/31/FB6zZyPEW5cVDAC.jpg" alt="Fes logo"></a></p>
 
 
-# Fes.js
-不管什么项目可能需要一个管理台前端应用，管理台前端应用一般包括权限、增删改查、报表、图表等业务逻辑相对简单的内容，但是大量的增删改查、接口调试也非常耗费时间，而且大中台概念下，对管理台前端有了更高的要求，希望保持统一的UI风格和一致的交互体验。     
-Fes.js管理开发到部署完整流程，提供模板项目、cli命令行工具、丰富的PC端组件和一系列API，提效中后台开发，让开发只关注业务逻辑。
+# 前言
+不管什么项目可能需要一个或者更多的管理台，管理台应用的内容一般是权限管理、增删改查、报表等业务逻辑相对固定的。但是大量的增删改查和接口联调非常耗费开发者时间，而且现在对管理台前端有了更高的要求，希望前端应用有美观而且统一的UI和一致的交互体验。     
+Fes.js支撑从开发、联调、部署整个前端应用研发流程，提供模板项目、cli命令行工具、丰富的PC端组件和一系列API，提效中后台开发，让开发只关注如何用组件搭建出页面。
 
 
 ## 简介
@@ -52,7 +52,7 @@ npm  run build
 
 
 ## 社区联络微信群
-![微信群](https://i.loli.net/2020/09/03/ovOCxkaS4lf5A2j.jpg)      
+![微信群](https://i.loli.net/2020/09/11/KfntWgP1vpyYeNI.png)   
 
 邮箱： harrywan@webank.com qlin@webank.com      
 微信： geniusWc
