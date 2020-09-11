@@ -52,7 +52,7 @@ npm  run build
 
 
 ## 社区联络微信群
-![微信群](https://i.loli.net/2020/09/11/KfntWgP1vpyYeNI.png)   
+![微信群](https://i.loli.net/2020/09/11/2XhKtPZd6NFVbDE.png)  
 
 邮箱： harrywan@webank.com qlin@webank.com      
 微信： geniusWc
