@@ -1,5 +1,23 @@
- <p align="center"><a href="https://webank.gitee.io/fes.js/" target="_blank" rel="noopener noreferrer"><img width="250" src="https://i.loli.net/2020/08/31/FB6zZyPEW5cVDAC.jpg" alt="Fes logo"></a></p>
+<p align="center">
+  <a href="https://github.com/WeBankFinTech/fes.js">
+    <img alt="fes.js" width="250" src="https://i.loli.net/2020/08/31/FB6zZyPEW5cVDAC.jpg">
+  </a>
+</p>
 
+<h1 align="center">Fes.js</h1>
+
+<div align="center">
+
+一套优秀的中后台前端解决方案
+
+[![GitHub issues](https://img.shields.io/github/issues/WeBankFinTech/fes.js.svg?style=flat-square)](https://github.com/WeBankFinTech/fes.js/issues)
+[![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/WeBankFinTech/fes.js/pulls)
+
+</div>
+
+- 使用文档 - [https://webank.gitee.io/fes.js/](https://webank.gitee.io/fes.js/)
+- 更新日志 - [https://webank.gitee.io/fes.js/guide/releaseNote.html](https://webank.gitee.io/fes.js/guide/releaseNote.html)
 
 # 前言
 不管什么项目可能需要一个或者更多的管理台，管理台应用的内容一般是权限管理、增删改查、报表等业务逻辑相对固定的。但是大量的增删改查和接口联调非常耗费开发者时间，而且现在对管理台前端有了更高的要求，希望前端应用有美观而且统一的UI和一致的交互体验。     
@@ -12,43 +30,54 @@ Fes.js是一整套管理台前端应用解决方案，包含Fes-Cli、Fes-Core�
 - Fes-Core是运行时框架，固定页面布局，提供权限管理、储存管理、路由管理、接口管理、状态管理、数据字典管理、环境管理等API。以插件的方式提供扩展接口。
 - Fes-UI是组件库，包含30+的PC端组件库，可以快速搭建出增删改查等页面
 
-## Fes-Core 运行时架构
-![fes-core.png](https://i.loli.net/2020/08/31/EGRcloxSnm41NeC.png)
+## 特性
+- 国际化，语言可配置，通过API切换
+- 自动生成路由，目录即路由
+- 动态权限，不同权限对应不同菜单
+- Mock 数据，本地数据调试
+- 固定布局，只需关心页面内容
+- 数据字典，简单定义，随处翻译
+
 
 ## 页面举例
-
-首页
 ![home.png](https://i.loli.net/2020/08/31/iDJ26GHcyZ9kpoh.png)
-
-表单页面
 ![form.png](https://i.loli.net/2020/08/31/tjpM83vVo4KYN7x.png)
-
-列表页面
 ![list.png](https://i.loli.net/2020/08/31/MHaOBf6xWXgzyRQ.png)
 ![listAndFrom.png](https://i.loli.net/2020/08/31/qXQgspFZkAmKW2H.png)
 ![listAndImg.png](https://i.loli.net/2020/08/31/ryQhUSTH5ZMdYVi.png)
 
 ## 使用
 
+1. 安装fes.js
 ```bash
 # install
 npm install @webank/fes-cli -g
+```
 
+2. 初始化项目
+   
+```bash
 # create a project
 fes init [project]
+```
 
-cd [project] && npm i
+3. 安装依赖
+```bash
+cd [project] 
+npm i
+```
 
+4. 启动本地服务
+```bash
 # start dev
 npm run dev
+```
 
+5. 打包编译
+```bash
 # build
 npm  run build
 ```
-
-## 文档
-
-详细使用请查看 [文档](https://webank.gitee.io/fes.js/)
 
 
 ## 社区联络微信群
