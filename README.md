@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">Fes.js</h1>
-
 <div align="center">
 
 一套优秀的中后台前端解决方案
