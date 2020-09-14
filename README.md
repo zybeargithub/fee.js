@@ -14,8 +14,9 @@
 
 </div>
 
+- 在线体验 - [http://webank.gitee.io/fes-pro/#/home](http://webank.gitee.io/fes-pro/#/home)
 - 使用文档 - [https://webank.gitee.io/fes.js/](https://webank.gitee.io/fes.js/)
-- 更新日志 - [https://webank.gitee.io/fes.js/guide/releaseNote.html](https://webank.gitee.io/fes.js/guide/releaseNote.html)
+- 更新日志 - [https://github.com/WeBankFinTech/fes.js/blob/master/CHANGELOG.md](https://github.com/WeBankFinTech/fes.js/blob/master/CHANGELOG.md)
 
 # 前言
 不管什么项目可能需要一个或者更多的管理台，管理台应用的内容一般是权限管理、增删改查、报表等业务逻辑相对固定的。但是大量的增删改查和接口联调非常耗费开发者时间，而且现在对管理台前端有了更高的要求，希望前端应用有美观而且统一的UI和一致的交互体验。     
