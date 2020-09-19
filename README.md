@@ -83,4 +83,16 @@ npm  run build
 <img alt="fes.js社区群" width="250" src="https://i.loli.net/2020/09/11/2XhKtPZd6NFVbDE.png">
 
 如果群满了，请联系：      
-<img alt="fes.js助手" width="250" src="https://i.loli.net/2020/09/16/sxwr62CKhmYOUyV.jpg">     
+<img alt="fes.js助手" width="250" src="https://i.loli.net/2020/09/16/sxwr62CKhmYOUyV.jpg"> 
+
+## Contributing
+
+Pull requests and stars are always welcome.
+
+For bugs and feature requests, [please create an issue](https://github.com/WeBankFinTech/fes.js/issues).
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
