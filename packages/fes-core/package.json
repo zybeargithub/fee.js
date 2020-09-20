@@ -19,7 +19,7 @@
     "strong"
   ],
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.20.0",
     "lodash": "^4.17.15",
     "vue": "^2.6.10",
     "vue-i18n": "^8.4.0",
