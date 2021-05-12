@@ -74,7 +74,7 @@
         "on-finished": "^2.3.0",
         "opn": "^4.0.2",
         "path": "^0.12.7",
-        "postcss": "^7.0.32",
+        "postcss": "^8.2.10",
         "postcss-loader": "^4.0.1",
         "prompts": "^2.3.0",
         "request": "^2.81.0",
